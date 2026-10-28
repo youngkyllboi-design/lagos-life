@@ -57,3 +57,4 @@ Build Command `npm run build`, Output Directory `dist`. No environment variables
 ## Roadmap
 
 Later phases add: interactions, economy, inventory, saving, and eventually multiplayer.
+election concluded 50,000 players awarded to OMR party 
